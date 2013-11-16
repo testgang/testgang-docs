@@ -9,7 +9,7 @@ Please follow the following steps:
 1. Download [TestGang client application][testgang-client-download]
 1. Start TestGang client using command line:
 <code>
-java -jar testgang-client.jar --username yourusername --passwrod yourpassword --server https://app.testgang.net
+java -jar testgang-client.jar --username yourusername --password yourpassword --server https://app.testgang.net
 </code>
 1. Connect your Android phone and it should appear shortly in the list of devices on [TestGangWebApp][testgang-web-app]
 
