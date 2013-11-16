@@ -1,4 +1,4 @@
-testgang-docs
-=============
+TestGang REST API documentation
+===============================
 
-Documentation
+To be added soon...
