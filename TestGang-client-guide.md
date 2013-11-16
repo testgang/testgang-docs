@@ -1,7 +1,5 @@
-testgang-docs
-=============
-
-Documentation
+TestGang client application usage guide
+=======================================
 
 Please follow the following steps:
 
