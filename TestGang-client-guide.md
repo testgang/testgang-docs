@@ -18,4 +18,4 @@ java -jar testgang-client.jar --username yourusername --password yourpassword --
 [sdk-windows]: http://dl.google.com/android/installer_r22.3-windows.exe "link to Android SDK windows"
 [sdk-linux]: http://dl.google.om/android/android-sdk_r22.3-linux.tgz "link to Android SDK linux"
 [sdk-mac]: http://dl.google.com/android/android-sdk_r22.3-macosx.zip "link to Android SDK macos"
-[testgang-client-download]: https://drive.google.com/file/d/0B_p5E3vuIafmVVNtTzN3Qk1kZTQ/edit?usp=sharing "testgang client download"
+[testgang-client-download]: http://testgang.net/client/testgang-client.jar "testgang client download"
